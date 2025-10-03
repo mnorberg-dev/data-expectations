@@ -10,6 +10,7 @@ Although Databricks has since rebranded **Delta Live Tables (DLT)** as **Lakeflo
 ## Contents
 
 - `slides/`  
+
     PDF or PowerPoint version of the presentation slides.  
 
 - `Demo_Data_Creation_Script.py`  
